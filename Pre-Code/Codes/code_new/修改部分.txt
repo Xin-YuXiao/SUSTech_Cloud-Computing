@@ -1,0 +1,16 @@
+{
+  "STACK_TIME_WINDOW": 10,
+  "MINUTES_OF_ACTION": [
+    0,
+    20,
+    50
+  ],
+  "INPUT_PATH": "C:\\DCCDATA\\demo\\0617\\*\\tcp download",
+  "OUTPUT_PATH": "C:\\Fracking\\Projects\\DemoProject\\stacked",
+  "TX_ID": [
+    600000101
+  ],
+  "RX_ID": [
+    600000101
+  ]
+}

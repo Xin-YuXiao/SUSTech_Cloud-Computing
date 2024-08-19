@@ -1,0 +1,11 @@
+{
+    "STACK_TIME_WINDOW": 10,
+    "MINUTES_OF_ACTION": [0,10, 20,30,40, 50,60],
+    "INPUT_PATH": "C:\\Users\\xiaoyu\\Desktop\\data_nkd\\data2",
+    "OUTPUT_PATH": "C:\\Users\\xiaoyu\\Desktop\\AWS Lambda\\OUTPUT1",
+    "TX_ID":  [600000001
+    ],
+    "RX_ID": [
+        600000090
+    ]
+}
